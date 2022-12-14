@@ -1,0 +1,12 @@
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\obj\Debug\net6.0\FicheParser.Model.csproj.AssemblyReference.cache
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\obj\Debug\net6.0\FicheParser.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\obj\Debug\net6.0\FicheParser.Model.AssemblyInfoInputs.cache
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\obj\Debug\net6.0\FicheParser.Model.AssemblyInfo.cs
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\obj\Debug\net6.0\FicheParser.Model.csproj.CoreCompileInputs.cache
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\bin\Debug\net6.0\FicheParser.Model.deps.json
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\bin\Debug\net6.0\FicheParser.Model.dll
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\bin\Debug\net6.0\FicheParser.Model.pdb
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\obj\Debug\net6.0\FicheParser.Model.dll
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\obj\Debug\net6.0\refint\FicheParser.Model.dll
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\obj\Debug\net6.0\FicheParser.Model.pdb
+C:\Users\yusufa\Desktop\Kaizen\FicheParser\FicheParser.Model\obj\Debug\net6.0\ref\FicheParser.Model.dll
