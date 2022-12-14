@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "CodeGenerator.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CodeGenerator.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CodeGenerator.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodeGenerator.Core/1.0.0": {
+      "type": "project",
+      "path": "../CodeGenerator.Core/CodeGenerator.Core.csproj",
+      "msbuildProject": "../CodeGenerator.Core/CodeGenerator.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "CodeGenerator.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\yusufa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\yusufa\\Desktop\\Kaizen\\KaizenTask\\FicheParser\\CodeGenerator\\CodeGenerator.csproj",
+      "projectName": "CodeGenerator",
+      "projectPath": "C:\\Users\\yusufa\\Desktop\\Kaizen\\KaizenTask\\FicheParser\\CodeGenerator\\CodeGenerator.csproj",
+      "packagesPath": "C:\\Users\\yusufa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yusufa\\Desktop\\Kaizen\\KaizenTask\\FicheParser\\CodeGenerator\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\yusufa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\yusufa\\Desktop\\Kaizen\\KaizenTask\\FicheParser\\CodeGenerator.Core\\CodeGenerator.Core.csproj": {
+              "projectPath": "C:\\Users\\yusufa\\Desktop\\Kaizen\\KaizenTask\\FicheParser\\CodeGenerator.Core\\CodeGenerator.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

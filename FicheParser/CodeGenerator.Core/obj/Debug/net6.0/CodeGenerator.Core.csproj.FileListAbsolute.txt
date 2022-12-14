@@ -1,0 +1,12 @@
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\bin\Debug\net6.0\CodeGenerator.Core.deps.json
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\bin\Debug\net6.0\CodeGenerator.Core.dll
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\bin\Debug\net6.0\CodeGenerator.Core.pdb
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\obj\Debug\net6.0\CodeGenerator.Core.csproj.AssemblyReference.cache
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\obj\Debug\net6.0\CodeGenerator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\obj\Debug\net6.0\CodeGenerator.Core.AssemblyInfoInputs.cache
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\obj\Debug\net6.0\CodeGenerator.Core.AssemblyInfo.cs
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\obj\Debug\net6.0\CodeGenerator.Core.csproj.CoreCompileInputs.cache
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\obj\Debug\net6.0\CodeGenerator.Core.dll
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\obj\Debug\net6.0\refint\CodeGenerator.Core.dll
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\obj\Debug\net6.0\CodeGenerator.Core.pdb
+C:\Users\yusufa\Desktop\Kaizen\KaizenTask\FicheParser\CodeGenerator.Core\obj\Debug\net6.0\ref\CodeGenerator.Core.dll
