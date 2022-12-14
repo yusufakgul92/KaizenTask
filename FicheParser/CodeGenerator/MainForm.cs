@@ -36,7 +36,7 @@ namespace CodeGenerator
                         if (!ValidCharacters.Contains(insertedText[i]))
                         {
                             MessageBox.Show("Girdiðiniz kodda kabul edilemeyecek karakterler bulunmakta.");
-                            return;
+                            return; 
                         }
                     }
                 }
