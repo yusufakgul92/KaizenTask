@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenerator", "CodeGenera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeGenerator.Core", "CodeGenerator.Core\CodeGenerator.Core.csproj", "{303A2F28-571D-40D9-A2A1-69C1E996F43A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sql Queries", "Sql Queries", "{CBF1ECC0-A6A0-4541-AA4C-BADAF3DDEA8D}"
+	ProjectSection(SolutionItems) = preProject
+		Query.sql = Query.sql
+		DbModel.png = DbModel.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
